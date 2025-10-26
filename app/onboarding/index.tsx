@@ -1,7 +1,7 @@
 import { Image, View } from 'react-native';
 import Onboarding from 'react-native-onboarding-swiper';
 
-export default function OnboardingScreen() {
+export default function OnboardingPage() {
   const backToHome = () => {};
   return (
     <View className="flex-1 justify-center items-center">
